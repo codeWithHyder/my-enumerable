@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
-<h1> <b> Morse Code Decoder </b> <hr/>
-   <img src="ruby.png" alt="Schema Diagram" height="400px" />
+<h1> <b> Ruby Enumerable </b> <hr/>
+   <img src="ruby.png" alt="Ruby Language Icon" height="400px" />
     <br/>
 
 </div>
@@ -31,9 +31,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Morse_Code_Decoder] <a name="about-project"></a>
+# 📖 [Ruby_Enumerable] <a name="about-project"></a>
 
-> ## **[Morse_Code_Decoder]** :- is a project that enables users to decode Morse code messages into readable text. The tool is built using the Ruby programming language and takes Morse code input in the form of dots, dashes, and spaces. The program then converts the input into the corresponding ASCII characters and outputs the decoded message.
+> ## **[Ruby_Enumerable]** :- Ruby Enumerable is a module that provides a set of methods for working with collections of objects such as arrays, hashes, and ranges. It is included in the Array, Hash, and Range classes, among others.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -64,9 +64,9 @@
 
 ## Key Features <a name="key-features"></a>
 
-- Accurate decoding of Morse code.
+- Collection and Manipulation of methods provided by Enumerable.
 - Simple command-line interface.
-- Support for different Morse code input formats.
+- Chaining: chain Enumerable methods together to create complex operations.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +100,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:Besufekad-HAZ/Morse-Code-Decode.git (SSH)
+  git clone git@github.com:codeWithHyder/my-enumerable.git (SSH)
 ```
 
 ## Install
@@ -156,7 +156,8 @@ ruby filename.rb
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Graphical user interface** :- The program could be improved by adding a graphical user interface (GUI) to make it more user-friendly and accessible to non-technical users.
-- [ ] **Morse Code encoder** :- The program could be extended to include a Morse code encoder that allows users to input text and convert it into Morse code.
+- [ ] **Additional Collation types** :like #max, #min, #sort.
+- [ ] **Custom Sorting**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,7 +167,7 @@ ruby filename.rb
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Besufekad-HAZ/Morse-Code-Decode/issues).
+Feel free to check the [issues page](https://github.com/codeWithHyder/my-enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,7 +183,7 @@ Feel free to check the [issues page](https://github.com/Besufekad-HAZ/Morse-Code
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> We would like to thank the [Microverse team](https://www.microverse.org/) for allowing us to work on this Morse Code Decoder ruby project.
+> We would like to thank the [Microverse team](https://www.microverse.org/) for allowing us to work on this Ruby Enumerable project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,7 +195,7 @@ Feel free to check the [issues page](https://github.com/Besufekad-HAZ/Morse-Code
 
   - To install and run the project, you will need to have Ruby installed on your computer. Once you have Ruby installed, you can download the project files and run the program from the command line using the following command:
     <br/>
-    `ruby morse_decoder.rb`
+    `ruby mylist.rb`
 
 - **What technologies and libraries are used in the project?**
 
